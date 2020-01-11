@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace Iphpjs\Contract\Hashing\Hasher;
+namespace Iphpjs\Contracts\Hashing\Hasher;
 
 interface Hasher
 {
