@@ -6,16 +6,19 @@
     "authors": [
         {
             "name": "NetworkRanger",
-            "email": "17346503142@163.com"
+            "email": "admin@iphpjs.com"
         }
     ],
     "require": {
         "php": "^7.0"
     },
-    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "Iphpjs\\Contracts\\": ""
         }
-    }
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "dev"
 }
