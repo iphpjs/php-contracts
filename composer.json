@@ -9,7 +9,6 @@
             "email": "17346503142@163.com"
         }
     ],
-    "minimum-stability": "stable",
     "require": {
         "php": "^7.0"
     },
