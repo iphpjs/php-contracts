@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace Iphpjs\Contracts\Encoding\Encoder;
+namespace Iphpjs\Contracts\Encoding;
 
 interface Encoder
 {
