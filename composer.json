@@ -1,5 +1,5 @@
 {
-    "name": "suse/php-contracts",
+    "name": "iphpjs/php-contracts",
     "description": "The Iphpjs Contracts package.",
     "type": "library",
     "license": "MIT",
