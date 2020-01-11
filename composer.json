@@ -1,0 +1,21 @@
+{
+    "name": "suse/php-contracts",
+    "description": "The Iphpjs Contracts package.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "NetworkRanger",
+            "email": "17346503142@163.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": "^7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Iphpjs\\Contracts\\": ""
+        }
+    }
+}
